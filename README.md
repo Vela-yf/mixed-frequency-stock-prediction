@@ -169,4 +169,4 @@ jupyter lab
 
 ## License
 
-MIT © 2026 Yifan Feng. See [LICENSE](LICENSE).
+MIT © 2026 Venti. See [LICENSE](LICENSE).
