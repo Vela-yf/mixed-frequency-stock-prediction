@@ -1,0 +1,17 @@
+pandas>=1.5
+numpy>=1.24
+scipy>=1.10
+scikit-learn>=1.2
+statsmodels>=0.13
+torch>=2.0
+matplotlib>=3.6
+seaborn>=0.12
+tqdm>=4.65
+openpyxl>=3.0
+jupyterlab>=4.0
+pyarrow>=12.0
+
+# Notes:
+# - Data acquisition (notebooks/01_data_fetch.ipynb) requires the Wind Python API
+#   (WindPy), which ships with a licensed Wind terminal and is not on PyPI.
+# - Notebooks 02-05 run on the parquet outputs of 01 with no Wind dependency.

@@ -1,0 +1,16 @@
+# Data (not redistributed — Wind license)
+data/
+*.parquet
+
+# Model weights
+*.pth
+checkpoints/
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# macOS
+.DS_Store
